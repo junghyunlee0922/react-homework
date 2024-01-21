@@ -101,9 +101,10 @@ pnpm i
 
 ### 리액트 팝업창
 ![스크린샷 2024-01-21 오후 10 42 02](https://github.com/junghyunlee0922/react-homework/assets/148926098/87b881f6-4880-4c75-abfe-384d6c2ca545)
-마크업은 <b>dialog</b>태그를 사용했고
-tailwind를 사용했습니다.
-자바스크립트는 사용안하고 마크업이랑 css만 구현했습니다.
+<br/>
+마크업은 <b>dialog</b>태그를 사용했고<br/>
+tailwind를 사용했습니다.<br/>
+자바스크립트는 사용안하고 마크업이랑 css만 구현했습니다.<br/>
 
 
 ## error 해결사항
@@ -114,7 +115,7 @@ tailwind를 사용했습니다.
 pnpm i -D postcss-nesting
 ```
 
-main.jsx에서 html다 하고
-계속 css안되서 tailwind.config에
-![스크린샷 2024-01-21 오후 10 32 51](https://github.com/junghyunlee0922/react-homework/assets/148926098/6175fc42-f7a1-4896-bde9-5ff2b38ddd2d)
+main.jsx에서 html다 하고<br/>
+계속 css안되서 tailwind.config에<br/>
+![스크린샷 2024-01-21 오후 10 32 51](https://github.com/junghyunlee0922/react-homework/assets/148926098/6175fc42-f7a1-4896-bde9-5ff2b38ddd2d)<br/>
 main.jsx를 추가했더니 텔윈드 css적용이 되었다.
