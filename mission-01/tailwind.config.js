@@ -13,6 +13,7 @@ const pxToRemFunc = (start, end) => {
 module.exports = {
   content: [
     "./index.html",
+    "./main.jsx",
     "./src/**/*.{js,jsx,ts,tsx,html}",
     "./public/components/*.{js,jsx,ts,tsx,html}",
   ],
