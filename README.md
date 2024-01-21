@@ -94,3 +94,9 @@ package.json 안에 설치
 ```bash
 pnpm i
 ```
+
+### nesting 찾을수 없다 에러떠서 설치
+
+```bash
+pnpm i -D postcss-nesting
+```
