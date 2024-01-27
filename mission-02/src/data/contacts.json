@@ -7,7 +7,8 @@
       "discount": 7,
       "price": "50,000원",
       "label": "도구보관함",
-      "limit": "한정수량"
+      "limit": "한정수량",
+      "imgUrl": "img-01"
     },
     {
       "id": "contact-zids",
@@ -16,7 +17,8 @@
       "discount": 10,
       "price": "65,000원",
       "label": "도라에몽 케어 담당",
-      "limit": "한정수량"
+      "limit": "한정수량",
+      "imgUrl": "img-02"
     },
     {
       "id": "contact-woxs",
@@ -24,7 +26,8 @@
       "name": "노진구",
       "discount": 70,
       "price": "10,000원",
-      "label": "잔머리 대마왕"
+      "label": "잔머리 대마왕",
+      "imgUrl": "img-03"
     },
     {
       "id": "contact-dhct",
@@ -32,7 +35,8 @@
       "name": "대나무 헬리콥터",
       "price": "30,000원",
       "label": "I can fly",
-      "limit": "한정수량"
+      "limit": "한정수량",
+      "imgUrl": "img-04"
     },
     {
       "id": "contact-amgb",
@@ -40,14 +44,16 @@
       "name": "암기빵",
       "discount": 15,
       "price": "15,000원",
-      "label": "식빵처럼 생겼다"
+      "label": "식빵처럼 생겼다",
+      "imgUrl": "img-05"
     },
     {
       "id": "contact-tbjg",
       "brand": "주먹",
       "name": "타임보자기",
       "price": "9,000원",
-      "label": "보자기"
+      "label": "보자기",
+      "imgUrl": "img-06"
     },
     {
       "id": "contact-door",
@@ -55,7 +61,8 @@
       "name": "어디로든 문",
       "discount": 4,
       "price": "24,300원",
-      "label": "요기어때"
+      "label": "요기어때",
+      "imgUrl": "img-07"
     },
     {
       "id": "contact-tmch",
@@ -64,7 +71,8 @@
       "discount": 3,
       "price": "990,000원",
       "label": "삐야삐야 깐따삐야 가자 미래로~!",
-      "limit": "품절임박"
+      "limit": "품절임박",
+      "imgUrl": "img-08"
     }
   ]
 }
