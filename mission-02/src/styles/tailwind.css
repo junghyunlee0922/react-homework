@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* .swiper-button-prev,
+.swiper-button-next{
+  @apply bg-center bg-no-repeat w-50pxr h-50pxr -translate-y-40pxr bg-[url("/product-arrow.svg")]
+} */
+
+.productSwiper .swiper-button-prev,
+.productSwiper .swiper-button-next{
+  @apply bg-[url("/product-arrow.svg")] bg-cover w-50pxr h-50pxr -translate-y-40pxr
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after{
+  @apply hidden 
+}
+
+.swiper-button-prev{
+  @apply rotate-180;
+}
