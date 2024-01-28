@@ -5,7 +5,7 @@
       "brand": "너구리",
       "name": "도라에몽",
       "discount": 7,
-      "price": "50,000원",
+      "price": 50000,
       "label": "도구보관함",
       "limit": "한정수량",
       "imgUrl": "img-01"
@@ -15,7 +15,7 @@
       "brand": "오빠",
       "name": "도라미",
       "discount": 10,
-      "price": "65,000원",
+      "price": 65000,
       "label": "도라에몽 케어 담당",
       "limit": "한정수량",
       "imgUrl": "img-02"
@@ -25,7 +25,7 @@
       "brand": "zero",
       "name": "노진구",
       "discount": 70,
-      "price": "10,000원",
+      "price": 10000,
       "label": "잔머리 대마왕",
       "imgUrl": "img-03"
     },
@@ -34,7 +34,7 @@
       "brand": "브라움박사",
       "name": "대나무 헬리콥터",
       "discount": 0,
-      "price": "30,000원",
+      "price": 30000,
       "label": "I can fly",
       "limit": "한정수량",
       "imgUrl": "img-04"
@@ -44,7 +44,7 @@
       "brand": "기억조작",
       "name": "암기빵",
       "discount": 15,
-      "price": "15,000원",
+      "price": 15000,
       "label": "식빵처럼 생겼다",
       "imgUrl": "img-05"
     },
@@ -53,7 +53,7 @@
       "brand": "주먹",
       "name": "타임보자기",
       "discount": 0,
-      "price": "9,000원",
+      "price": 9000,
       "label": "보자기",
       "imgUrl": "img-06"
     },
@@ -62,7 +62,7 @@
       "brand": "Palkia",
       "name": "어디로든 문",
       "discount": 4,
-      "price": "24,300원",
+      "price": 24300,
       "label": "요기어때",
       "imgUrl": "img-07"
     },
@@ -71,7 +71,7 @@
       "brand": "타임코스모스",
       "name": "타임머신",
       "discount": 3,
-      "price": "990,000원",
+      "price": 990000,
       "label": "삐야삐야 깐따삐야 가자 미래로~!",
       "limit": "품절임박",
       "imgUrl": "img-08"
