@@ -33,6 +33,7 @@
       "id": "contact-dhct",
       "brand": "브라움박사",
       "name": "대나무 헬리콥터",
+      "discount": 0,
       "price": "30,000원",
       "label": "I can fly",
       "limit": "한정수량",
@@ -51,6 +52,7 @@
       "id": "contact-tbjg",
       "brand": "주먹",
       "name": "타임보자기",
+      "discount": 0,
       "price": "9,000원",
       "label": "보자기",
       "imgUrl": "img-06"
