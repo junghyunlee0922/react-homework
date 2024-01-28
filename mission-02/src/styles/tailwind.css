@@ -17,6 +17,11 @@
   @apply hidden 
 }
 
-.swiper-button-prev{
-  @apply rotate-180;
+.productSwiper .swiper-button-prev{
+  @apply rotate-180
 }
+
+.productSwiper .swiper-button-disabled{
+  @apply hidden
+}
+

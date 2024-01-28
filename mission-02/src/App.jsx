@@ -1,9 +1,9 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation } from "swiper/modules";
 import contactData from './data/contacts.json'
+import comma from './util/comma';
 import 'swiper/swiper-bundle.css';
 import "swiper/css/navigation";
-import comma from './util/comma';
 
 const App = () => {
   
@@ -11,13 +11,13 @@ const App = () => {
     <Swiper className='productSwiper'
       spaceBetween={16}
       slidesPerView={4}
-      navigation={true}
+      div navigation={true}
       modules={[Navigation]}
     >
       {contactData.items.map((items) =>{
         const discountPrice = items.price - (items.price * items.discount) / 100
     return <SwiperSlide key={items.id}>
-          <a href="/" className='flex flex-col gap-4pxr mb-8pxr'>
+          <a href="/" className='flex flex-col gap-4pxr m-3pxr mb-8pxr'>
             <img className='w-250pxr h-320pxr bg-gray-100' src={`/image/${items.imgUrl}.png`} alt={items.name} />
             <span className='text-content'>[{items.brand}]{items.name}</span>
             <div>
